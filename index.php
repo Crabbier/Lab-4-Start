@@ -48,7 +48,7 @@
             <form action = "subscribe.php" method = "get">
             <form id="sign_up" action="" method="get">
 <!-- STEP 6: Add an H3 element inside the FORM tags that reads, "Subscribe to Newsletter" -->
-            <h3></H3>
+            <h3>Subscribe to Newsletter</H3>
 
 <!-- STEP 7a: Add a LABEL element for the email address -->
             <label for = "email">Email<span aria-label="required">*</span></label>
